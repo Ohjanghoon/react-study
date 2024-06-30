@@ -1,7 +1,4 @@
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <h1>안녕 리액트!</h1>
-);
-
+ReactDOM.render(<App />, document.getElementById('root'));
