@@ -1,0 +1,9 @@
+.Hand-icon {
+    opacity: 0.87;
+    width: 70px;
+    height: 70px;
+    margin: 70px auto 0;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
